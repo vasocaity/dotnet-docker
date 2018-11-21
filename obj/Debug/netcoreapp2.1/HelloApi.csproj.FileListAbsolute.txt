@@ -1,0 +1,14 @@
+/Users/varaphon.maensiri/Documents/tutorial/Docker/dotnet-ef-docker/HelloApi/bin/Debug/netcoreapp2.1/HelloApi.deps.json
+/Users/varaphon.maensiri/Documents/tutorial/Docker/dotnet-ef-docker/HelloApi/bin/Debug/netcoreapp2.1/HelloApi.runtimeconfig.json
+/Users/varaphon.maensiri/Documents/tutorial/Docker/dotnet-ef-docker/HelloApi/bin/Debug/netcoreapp2.1/HelloApi.runtimeconfig.dev.json
+/Users/varaphon.maensiri/Documents/tutorial/Docker/dotnet-ef-docker/HelloApi/bin/Debug/netcoreapp2.1/HelloApi.dll
+/Users/varaphon.maensiri/Documents/tutorial/Docker/dotnet-ef-docker/HelloApi/bin/Debug/netcoreapp2.1/HelloApi.pdb
+/Users/varaphon.maensiri/Documents/tutorial/Docker/dotnet-ef-docker/HelloApi/obj/Debug/netcoreapp2.1/HelloApi.csprojAssemblyReference.cache
+/Users/varaphon.maensiri/Documents/tutorial/Docker/dotnet-ef-docker/HelloApi/obj/Debug/netcoreapp2.1/HelloApi.csproj.CoreCompileInputs.cache
+/Users/varaphon.maensiri/Documents/tutorial/Docker/dotnet-ef-docker/HelloApi/obj/Debug/netcoreapp2.1/HelloApi.RazorAssemblyInfo.cache
+/Users/varaphon.maensiri/Documents/tutorial/Docker/dotnet-ef-docker/HelloApi/obj/Debug/netcoreapp2.1/HelloApi.RazorAssemblyInfo.cs
+/Users/varaphon.maensiri/Documents/tutorial/Docker/dotnet-ef-docker/HelloApi/obj/Debug/netcoreapp2.1/HelloApi.AssemblyInfoInputs.cache
+/Users/varaphon.maensiri/Documents/tutorial/Docker/dotnet-ef-docker/HelloApi/obj/Debug/netcoreapp2.1/HelloApi.AssemblyInfo.cs
+/Users/varaphon.maensiri/Documents/tutorial/Docker/dotnet-ef-docker/HelloApi/obj/Debug/netcoreapp2.1/HelloApi.RazorTargetAssemblyInfo.cache
+/Users/varaphon.maensiri/Documents/tutorial/Docker/dotnet-ef-docker/HelloApi/obj/Debug/netcoreapp2.1/HelloApi.dll
+/Users/varaphon.maensiri/Documents/tutorial/Docker/dotnet-ef-docker/HelloApi/obj/Debug/netcoreapp2.1/HelloApi.pdb
