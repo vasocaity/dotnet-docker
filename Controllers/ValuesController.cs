@@ -19,8 +19,8 @@ namespace HelloApi.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<Users>> Get()
         {
-            var result = _context.Users.ToList();
-            return result;
+            // var result = _context.Users.ToList();
+            return Ok(_context.Users.ToList());
         }
 
         // GET api/values/5
