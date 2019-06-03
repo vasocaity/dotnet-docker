@@ -1,7 +1,5 @@
 {
-  "ProjectFilePath": "/Users/varaphon.maensiri/Documents/tutorial/Docker/dotnet-ef-docker/HelloApi/HelloApi.csproj",
-  "TargetFramework": "netcoreapp2.1",
-  "TagHelpers": [],
+  "FilePath": "/Users/varaphon.maensiri/tutorial/devOp/Docker/dotnet-ef-docker/HelloApi/HelloApi.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -10,5 +8,11 @@
         "ExtensionName": "MVC-2.1"
       }
     ]
-  }
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "HelloApi",
+  "Documents": []
 }
